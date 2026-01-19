@@ -1,0 +1,10 @@
+ResNet18 Test Accuracy: 0.5431
+
+                       precision    recall  f1-score   support
+
+      Abnormal(Ulcer)       0.54      0.96      0.69       142
+Normal (Healthy skin)       0.60      0.07      0.13       125
+
+             accuracy                           0.54       267
+            macro avg       0.57      0.51      0.41       267
+         weighted avg       0.57      0.54      0.43       267

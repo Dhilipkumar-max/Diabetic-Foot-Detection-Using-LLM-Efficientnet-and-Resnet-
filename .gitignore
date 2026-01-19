@@ -1,0 +1,6 @@
+# Python
+__pycache__/
+*.pyc
+
+# Large Model Files (>100MB)
+models/*.h5
